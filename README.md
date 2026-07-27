@@ -41,6 +41,7 @@
 
   <h3>🚌 <a href="https://github.com/jiyu-park/today-in-busan">Today in Busan</a></h3>
   <p>
+    <sub>👤 개인 프로젝트</sub><br />
     React와 FastAPI, 관광 API를 활용한 부산 여행지 추천 서비스<br />
     <sub>React · FastAPI · TourAPI</sub>
   </p>
@@ -49,6 +50,7 @@
 
   <h3>🎬 <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-4Team">영화 흥행 예측</a></h3>
   <p>
+    <sub>👥 팀 프로젝트 · 4인 · 담당: EDA·베이스라인 모델 학습</sub><br />
     영화·검색 트렌드 데이터를 바탕으로 관객 수 예측 및 흥행 여부를 분류한 프로젝트<br />
     <sub>Python · Pandas · Scikit-learn · XGBoost</sub>
   </p>
@@ -57,6 +59,7 @@
 
   <h3>🛡️ <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-4th-2Team">워커실드</a></h3>
   <p>
+    <sub>👥 팀 프로젝트 · 5인 · 담당: 백엔드 API·세션 관리</sub><br />
     MCP와 LLM을 활용해 계약서를 검토하고 주요 위험 요소를 안내하는 서비스<br />
     <sub>FastAPI · React · LLM · MCP · RAG</sub>
   </p>
