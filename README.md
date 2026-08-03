@@ -48,6 +48,15 @@
 
   <br />
 
+  <h3>🚗 <a href="https://github.com/SKN30-project1-team2/SKN30_project1_team2">EV Seoul</a></h3>
+<p>
+  <sub>👥 팀 프로젝트 · 5인 · 담당: 데이터 수집·전처리·DB 모델링 및 구축</sub><br />
+  서울시 전기차 등록 현황과 충전 인프라를 분석하고, 지도·대시보드로 시각화한 데이터 기반 서비스<br />
+  <sub>Python · Streamlit · Pandas · SQL · Folium · Altair</sub>
+</p>
+
+<br />
+
   <h3>🎬 <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-4Team">영화 흥행 예측</a></h3>
   <p>
     <sub>👥 팀 프로젝트 · 4인 · 담당: EDA·베이스라인 모델 학습</sub><br />
