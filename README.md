@@ -1,32 +1,33 @@
 <div align="center">
-  <h2>Hi there! I’m Jiyu Park, a developer interested in data and AI. 👋</h2>
+```html
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+  오늘의 문제를 내일의 기준으로
+</h2>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=134e3f&height=180&text=Finally%20you%20found%20me!🥸&animation=&fontColor=ffffff&fontSize=50"
-  />
-</div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오늘의 문제를 내일의 기준으로 </h2>  
-  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
   안녕하세요. <strong>웹 개발 경험</strong>을 바탕으로
-  <strong>데이터 분석과 AI 서비스 개발</strong>을 배우고 있는 박지유입니다.
+  <strong>데이터 분석과 AI 서비스 개발</strong> 역량을 확장하고 있는 박지유입니다.
   <br /><br />
 
-  새로운 문제를 만났을 때 단순히 해결하는 데서 끝내지 않고,
+  새로운 문제를 만났을 때 임시 해결에 그치지 않고,
   <br />
   <strong>원인과 해결 과정</strong>을 정리해 다음 작업의 기준으로 만드는 편입니다.
   <br />
-  모르는 기술도 직접 구현해 보며 이해하고,
+  낯선 기술도 직접 구현하며 이해하고,
   <br />
-  시행착오를 통해 <strong>더 나은 방법</strong>을 찾아갑니다.
+  시행착오를 통해 <strong>더 나은 방식</strong>을 찾아갑니다.
   <br /><br />
 
-  협업에서는 맡은 일을 <strong>책임감 있게</strong> 수행하고,
+  데이터 분석, 관광 정보 추천, 계약서 검토 서비스 프로젝트를 진행하며
   <br />
-  팀원과의 <strong>소통</strong>을 통해 더 좋은 결과를 만드는 것을 중요하게 생각합니다.
+  데이터 처리부터 API 설계와 서비스 연동까지 경험을 넓혀가고 있습니다.
   <br />
-  오늘 마주한 문제를 내일의 더 나은 선택으로 연결하는 개발자로 성장하겠습니다.
-  <br /><br />
+  책임감 있는 실행과 명확한 소통으로,
+  <br />
+  사용자에게 실질적인 가치를 주는 서비스를 만드는 개발자로 성장하겠습니다.
+</div>
+```
+
 
   Hello, I’m Jiyu Park, a developer interested in <strong>data and AI</strong>.
   <br /><br />
