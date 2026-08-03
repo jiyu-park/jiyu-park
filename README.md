@@ -5,13 +5,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=134e3f&height=180&text=Finally%20you%20found%20me!🥸&animation=&fontColor=ffffff&fontSize=50"
   />
 </div>
-<div align="center">
-  <h2>Hi there! I’m Jiyu Park, a developer interested in data and AI. 👋</h2>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=134e3f&height=180&text=Finally%20you%20found%20me!🥸&animation=&fontColor=ffffff&fontSize=50"
-  />
-</div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오늘의 문제를 내일의 기준으로 </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
