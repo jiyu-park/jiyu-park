@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there! I’m Jiyu Park, a developer interested in data and AI. 👋</h2>
+  <h2>Hi there! I’m Jane Park, a developer interested in data and AI. 👋</h2>
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=134e3f&height=180&text=Finally%20you%20found%20me!🥸&fontColor=ffffff&fontSize=50"
@@ -9,7 +9,7 @@
 <h2 align="center">오늘의 문제를 내일의 기준으로</h2>
 
 <p align="center">
-안녕하세요. <strong>웹 개발 경험</strong>을 바탕으로 <strong>데이터 분석과 AI 서비스 개발</strong> 역량을 확장하고 있는 박지유입니다.
+안녕하세요. <strong>웹 개발 경험</strong>을 바탕으로 <strong>데이터 분석과 AI 서비스 개발</strong> 역량을 확장하고 있는 Jane입니다.
 <br><br>
 새로운 문제를 만났을 때 임시 해결에 그치지 않고,<br>
 <strong>원인과 해결 과정</strong>을 정리해 다음 작업의 기준으로 만드는 편입니다.<br>
